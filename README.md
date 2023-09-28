@@ -13,7 +13,11 @@ Embora a interface Map não ser filha direta da interface Collection ela também
 List interface hierarchy Java
 Method Sumary Collection Interface
 
+![image](https://github.com/BrunoAlcantaraGit/Colletion-Java/assets/120646838/1f567ff5-3530-47ed-b7a3-e66827f05bea)
+
+
 Referências:
+
 [1] "Java Collections - Universidade Java." Universidade Java. Disponível em: http://www.universidadejava.com.br/java/java-collection/.
 
 [2] "Java™ Platform, Standard Edition 17 API Specification - Interface Collection." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html.
