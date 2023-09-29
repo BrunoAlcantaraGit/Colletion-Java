@@ -1,9 +1,7 @@
-package src.java.list.operacoesBasicas;
+package src.java.list.operacoesBasicas.Tarefa;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static java.lang.Integer.*;
 
 public class ListaTarefa {
     private List<Tarefa> tarefaList;
