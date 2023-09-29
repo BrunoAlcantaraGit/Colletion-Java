@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.Tarefa;
+package src.java.list.operacoesBasicas.Compra;
 
 import java.util.ArrayList;
 import java.util.List;
