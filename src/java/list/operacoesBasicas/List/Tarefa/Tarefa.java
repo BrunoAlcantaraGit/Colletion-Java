@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.Tarefa;
+package src.java.list.operacoesBasicas.List.Tarefa;
 
 public class Tarefa {
 private  String descricao;

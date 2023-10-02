@@ -1,6 +1,4 @@
-package src.java.list.operacoesBasicas.OrdenacaoDePessoas;
-
-import java.util.*;
+package src.java.list.operacoesBasicas.List.OrdenacaoDePessoas;
 
 import java.util.ArrayList;
 import java.util.Collections;

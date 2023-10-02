@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.OrdenacaoDePessoas;
+package src.java.list.operacoesBasicas.List.OrdenacaoDePessoas;
 
 public class Pessoas implements Comparable<Pessoas>{
 

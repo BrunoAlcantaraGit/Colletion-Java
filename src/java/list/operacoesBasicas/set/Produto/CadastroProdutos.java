@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.Produto;
+package src.java.list.operacoesBasicas.set.Produto;
 
 import java.util.HashSet;
 import java.util.Set;

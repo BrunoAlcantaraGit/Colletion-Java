@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.AgendaContato;
+package src.java.list.operacoesBasicas.set.AgendaContato;
 
 import java.util.Objects;
 

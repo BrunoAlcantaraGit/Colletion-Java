@@ -1,4 +1,4 @@
-package src.java.list.operacoesBasicas.Compra;
+package src.java.list.operacoesBasicas.List.Compra;
 
 public class Compra {
 private String iten;
